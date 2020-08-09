@@ -3,6 +3,7 @@
 Here are some projects that I've done:
 
 ⚡[Sorting Visualiser](https://wayne9598.github.io/sorting-visualiser/)
+
 ⚡[Path Finding Visualiser](https://wayne9598.github.io/path-finding-visualiser/)
 
 <!--
