@@ -6,6 +6,9 @@ Here are some projects that I've done:
 
 ⚡[Path Finding Visualiser](https://wayne9598.github.io/path-finding-visualiser/)
 
+⚡[Break the Bricks](https://wayne9598.github.io/Break-the-bricks-game/)
+
+
 <!--
 
 - 👯 I’m looking to collaborate on ...
