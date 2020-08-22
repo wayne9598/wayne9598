@@ -10,7 +10,7 @@ Here are some projects that I've done:
 
 ⚡[Typing Game](https://wayne9598.github.io/Typing-Game/)
 
-⚡ Basic Stock Analysis
+⚡ Simple Stock Analysis
 
 ⚡ Dodging Game
 
