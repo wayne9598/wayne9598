@@ -2,6 +2,13 @@
 
 Here are some projects that I've done:
 
+### NASA SpaceApp Hackathon
+⚡[Dynamic Sleep Scheduling Tool for Astronauts](https://github.com/wayne9598/Sleep-Schedule)
+
+⚡[Full Technical Report](https://github.com/wayne9598/Sleep-Schedule/blob/master/Report.pdf)
+
+⚡[Demostration Video](https://youtu.be/WLabGs2KeIE)
+
 ### React Applications
 
 ⚡[Sorting Visualiser](https://wayne9598.github.io/sorting-visualiser/)
